@@ -1,0 +1,4 @@
+*~
+*.bak
+*.sw[op]
+docker-compose.yml
